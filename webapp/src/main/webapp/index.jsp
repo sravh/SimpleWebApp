@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>chrissy chelsy</h1>   
+         <h1>meshoo online sale</h1>   
 	 
 
     </section>    
@@ -108,5 +108,4 @@ h1{
     <section id="pricing"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
 
-</body>
-</html>
+</body></html>
